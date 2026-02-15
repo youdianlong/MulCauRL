@@ -7,4 +7,4 @@ This package was developed by Mr. YongChao Zhao(zhaoyc@stumail.ysu.edu.cn). For 
 
 This is the original version, and the complete version will be uploaded after publication.
 # Appendix Descriptions
-Include: S1. NOTATIONS, S2.PROOFS OF THEORETICAL RESULTS,  S3.EXTENDED THEORETICAL RESULTS, S4. ALGORITHM, and S5. EXTENDED EXPERIMENTAL DETAILS
+Include: S1. EXTENDED THEORETICAL RESULTS, and S2. EXTENDED EXPERIMENTAL DETAILS
